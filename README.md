@@ -33,8 +33,20 @@ The dataset consists of images with the following 9 classes:
 - Roman amphitheater
 - Jeresh
 - Ajloun Castle
+  <div style="display: flex; flex-direction: column; justify-content: space-between;">
+  <img src="example/10.png" alt="Example  Image 1" width="300"/>
+  <img src="example/1848e964b6aa16dbf91e5a011a32e847.png" alt="Example  Image 2" width="300"/>
+</div>
 
+<div style="display: flex; flex-direction: column; justify-content: space-between;">
+  <img src="example/28.png" alt="Example  Image 3" width="300"/>
+  <img src="example/2024-01-19 024910.png" alt="Example  Image 4" width="300"/>
+</div>
 
+<div style="display: flex; flex-direction: column; justify-content: space-between;">
+  <img src="example/Screenshot_4.png" alt="Example  Image 5" width="300"/>
+  <img src="example/img38.png" alt="Example  Image 6" width="300"/>
+</div>
 ### Models Evaluated
 The following pre-trained models are evaluated in this project:
 
