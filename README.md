@@ -7,15 +7,14 @@ This task can aid in various applications such as tourism promotion, historical 
 ## Dataset Collection
 The process typically involves collecting a dataset of images featuring different archaeological sites across Jordan, including famous landmarks like Petra, Jerash, and Wadi Rum, among others. 
 These images may vary in terms of lighting conditions, angles, and image quality, presenting a challenge for accurate classification.
-The dataset for this project was created by collecting images of Jordanian archaeological sites from various website sources. [dataset](https://drive.google.com/drive/folders/1ty_T_iXx35HAuSkEgbXiOlwoLjH75jLC?usp=sharing) 
-The dataset consists of images with the following 9 classes:
-- Petra 
+The dataset for this project was created by collecting images of Jordanian archaeological sites from various website sources [dataset](https://drive.google.com/drive/folders/1ty_T_iXx35HAuSkEgbXiOlwoLjH75jLC?usp=sharing). The dataset consists of images with the following 6 classes:
+- Petra
 - Wadi_Rum
 - Umm_Qais
 - Roman amphitheater
 - Jeresh
 - Ajloun Castle
-<img src="example/sites.png" alt="Example "/>
+<div style="display: flex; flex-direction: column; justify-content: space-between;"><img src="example/sites.png"></div>
 
 ## Utilizing Pretrained Models
 Pretrained models are commonly employed for image classification tasks due to their effectiveness in learning hierarchical features from images. The dataset is divided into training, validation, and testing sets, and the pretrained model is trained on the training data to learn the features that distinguish between different archaeological sites.
