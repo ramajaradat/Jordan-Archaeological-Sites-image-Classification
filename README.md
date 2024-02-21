@@ -66,7 +66,7 @@ Once the model is trained, you can utilize the power of Hugging Face for inferen
 
 3. **Model Inference**: Utilize Hugging Face's inference capabilities to process the input images through the selected pre-trained model. This step will generate predictions or insights based on the model's understanding of the input data.
 please follow this <a href="https://huggingface.co/spaces/trs/Image_Classification_with_pre-traind_Models">Image Classification for Archaeological Sites Interface</a>.
- <img src="example/Image Classification for Archaeological Sites Interface.png" alt="Image Classification for Archaeological Sites Interface" width="300" />
+ <img src="example/Image Classification for Archaeological Sites Interface.png" alt="Image Classification for Archaeological Sites Interface" />
 
 ### Example Code Snippet
 
