@@ -25,28 +25,28 @@ Hyperparameter tuning and optimization techniques may be applied to enhance the 
 The following pre-trained models are evaluated in this project:
 - **InceptionV3**
   <div style="display: flex; flex-direction: column; justify-content: space-between;">
-  <img src="results/InceptionV3.png" alt="result  Image 1" width="900"/>
-  <img src="results/InceptionV3_Con.Matrix.png" alt="result Image 1" width="450" height="300"/>
-  <img src="results/InceptionV3_classification report.png" alt="result Image 1" width="450" height="300"/>
+  <img src="results/InceptionV3.png" alt="result  Image 1" width="350" height="300"/>
+  <img src="results/InceptionV3_Con.Matrix.png" alt="result Image 1" width="300" height="300"/>
+  <img src="results/InceptionV3_classification report.png" alt="result Image 1" width="300" height="300"/>
   </div>
 
 - **EfficientNet**
    <div style="display: flex; flex-direction: column; justify-content: space-between;">
-   <img src="results/efficientNet.png" alt="result Image 2" width="900" height="250"/>
-  <img src="results/efficient_Confusion Matrix.png" alt="result Image 2" width="450" height="300"/>
-  <img src="results/efficient_classification report.png" alt="result Image 2" width="450" height="300"/>
+   <img src="results/efficientNet.png" alt="result Image 2" width="350" height="300"/>
+  <img src="results/efficient_Confusion Matrix.png" alt="result Image 2" width="300" height="300"/>
+  <img src="results/efficient_classification report.png" alt="result Image 2" width="300" height="300"/>
   </div>
 - **ResNet**
    <div style="display: flex; flex-direction: column; justify-content: space-between;">
-   <img src="results/ResNet50.png" alt="result  Image 1" width="900" height="250"/>
-  <img src="results/ResNet50_Confusion_Matrix.png" alt="result  Image 2" width="450" height="300"/>
-  <img src="results/ResNet50_classification_report.png" alt="result  Image 3" width="450" height="300"/>
+   <img src="results/ResNet50.png" alt="result  Image 1" width="350" height="300"/>
+  <img src="results/ResNet50_Confusion_Matrix.png" alt="result  Image 2" width="300" height="300"/>
+  <img src="results/ResNet50_classification_report.png" alt="result  Image 3" width="300" height="300"/>
   </div>
 - **VGGNet**
    <div style="display: flex; flex-direction: column; justify-content: space-between;">
-   <img src="results/VGG16.png" alt="result  Image 1" width="900" height="300"/>
-  <img src="results/VGG16_Con_Matrix.png" alt="result  Image 2" width="450" height="300"/>
-  <img src="results/VGG16_Classification_report.png" alt="result  Image 3" width="450" height="300"/>
+   <img src="results/VGG16.png" alt="result  Image 1" width="350" height="300"/>
+  <img src="results/VGG16_Con_Matrix.png" alt="result  Image 2" width="300" height="300"/>
+  <img src="results/VGG16_Classification_report.png" alt="result  Image 3" width="300" height="300"/>
   </div>
 
 ## Inference with Hugging Face
