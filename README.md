@@ -29,23 +29,22 @@ The dataset for this project was created by collecting images of Jordanian archa
 
 The dataset consists of images with the following 9 classes:
 
-- Petra
+- Petra 
 - Wadi_Rum
 - Umm_Qais
 - Roman amphitheater
 - Jeresh
 - Ajloun Castle
- <div style="display: flex; flex-direction: column; justify-content: space-between;">
-  <img src="example/sites.png" alt="Example  Image 1"/>
- </div>
+<img src="example/sites.png" alt="Example  Image 1"/>
+ 
 
 ### Models Evaluated
 The following pre-trained models are evaluated in this project:
 - **InceptionV3**
   <div style="display: flex; flex-direction: column; justify-content: space-between;">
   <img src="results/InceptionV3.png" alt="result  Image 1" width="900"/>
-  <img src="results/InceptionV3_Con.Matrix.png" alt="result Image 1" width="450" height="250"/>
-  <img src="results/InceptionV3_classification report.png" alt="result Image 1" width="450" height="250"/>
+  <img src="results/InceptionV3_Con.Matrix.png" alt="result Image 1" width="450" height="300"/>
+  <img src="results/InceptionV3_classification report.png" alt="result Image 1" width="450" height="300"/>
   </div>
 
 - **EfficientNet**
