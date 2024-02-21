@@ -50,9 +50,26 @@ The dataset consists of images with the following 9 classes:
 ### Models Evaluated
 The following pre-trained models are evaluated in this project:
 - **InceptionV3**
+  <div style="display: flex; flex-direction: column; justify-content: space-between;">
+  <img src="example/28.png" alt="Example  Image 3" width="300" height="250"/>
+  <img src="example/2024-01-19 024910.png" alt="Example  Image 4" width="300" height="250"/>
+  </div>
+
 - **EfficientNet**
+   <div style="display: flex; flex-direction: column; justify-content: space-between;">
+  <img src="example/28.png" alt="Example  Image 3" width="300" height="250"/>
+  <img src="example/2024-01-19 024910.png" alt="Example  Image 4" width="300" height="250"/>
+  </div>
 - **ResNet**
+   <div style="display: flex; flex-direction: column; justify-content: space-between;">
+  <img src="example/28.png" alt="Example  Image 3" width="300" height="250"/>
+  <img src="example/2024-01-19 024910.png" alt="Example  Image 4" width="300" height="250"/>
+  </div>
 - **VGGNet**
+   <div style="display: flex; flex-direction: column; justify-content: space-between;">
+  <img src="example/28.png" alt="Example  Image 3" width="300" height="250"/>
+  <img src="example/2024-01-19 024910.png" alt="Example  Image 4" width="300" height="250"/>
+  </div>
 
 ## Inference with Hugging Face
 
@@ -65,12 +82,9 @@ Once the model is trained, you can utilize the power of Hugging Face for inferen
 2. **Input Data**: Prepare your input data, in this case, images of Jordanian archaeological sites, ensuring they are in a compatible format and quality for the chosen model.
 
 3. **Model Inference**: Utilize Hugging Face's inference capabilities to process the input images through the selected pre-trained model. This step will generate predictions or insights based on the model's understanding of the input data.
-please follow this <a href="https://huggingface.co/spaces/trs/Image_Classification_with_pre-traind_Models">Image Classification for Archaeological Sites Interface</a>.
+please follow this <a href="https://huggingface.co/spaces/trs/Image_Classification_with_pre-traind_Models">HuggingFace Demo</a>.
  <img src="example/Image Classification for Archaeological Sites Interface.png" alt="Image Classification for Archaeological Sites Interface" />
 
-### Example Code Snippet
-
-Here's a simple example code snippet demonstrating how to use the Hugging Face API for inference on images of Jordanian archaeological sites:
 
 ## Presentation
 For more details, please refer to our presentation <a href="https://prezi.com/p/edit/rob86aji2seu/">here</a>
