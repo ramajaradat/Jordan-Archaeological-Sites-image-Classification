@@ -1,4 +1,4 @@
-# Jordan Coins Detection (Tracking & Counting)
+# Jordan Archaeological Sites Pre-traind Image Classification 
 
 ## Overview 
 Image classification in the context of Jordanian archaeological sites involves utilizing machine learning techniques to categorize images according to the specific archaeological sites they depict. 
@@ -34,15 +34,15 @@ The dataset consists of images with the following 9 classes:
 - Jeresh
 - Ajloun Castle
  <div style="display: flex; flex-direction: column; justify-content: space-between;">
-  <img src="example/10.png" alt="Example  Image 1" width="300" height="300"/>
-  <img src="example/1848e964b6aa16dbf91e5a011a32e847.png" alt="Example  Image 2" width="300" height="300"/>
-  <img src="example/Screenshot_4.png" alt="Example  Image 5" width="300" height="300"/>
+  <img src="example/10.png" alt="Example  Image 1" width="300" height="250"/>
+  <img src="example/1848e964b6aa16dbf91e5a011a32e847.png" alt="Example  Image 2" width="300" height="250"/>
+  <img src="example/Screenshot_4.png" alt="Example  Image 5" width="300" height="250"/>
  </div>
 
 <div style="display: flex; flex-direction: column; justify-content: space-between;">
-  <img src="example/28.png" alt="Example  Image 3" width="300" height="300"/>
-  <img src="example/2024-01-19 024910.png" alt="Example  Image 4" width="300" height="300"/>
-  <img src="example/img38.png" alt="Example  Image 6" width="300" height="300"/>
+  <img src="example/28.png" alt="Example  Image 3" width="300" height="250"/>
+  <img src="example/2024-01-19 024910.png" alt="Example  Image 4" width="300" height="250"/>
+  <img src="example/img38.png" alt="Example  Image 6" width="300" height="250"/>
 </div>
 
 ### Models Evaluated
