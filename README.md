@@ -20,7 +20,7 @@ Additionally, the model can be integrated into various applications, such as mob
 
 
 ## Dataset:
-The dataset for this project was created by collecting images of Jordanian archaeological sites from various website sources. [dataset]([https://universe.roboflow.com/coinsvision/jordan-coins-detection-nqdbs/dataset/1](https://drive.google.com/drive/folders/1ty_T_iXx35HAuSkEgbXiOlwoLjH75jLC?usp=sharing))
+The dataset for this project was created by collecting images of Jordanian archaeological sites from various website sources. [dataset](https://drive.google.com/drive/folders/1ty_T_iXx35HAuSkEgbXiOlwoLjH75jLC?usp=sharing)
 
 
 ### Data Collection:
