@@ -53,3 +53,25 @@ The following pre-trained models are evaluated in this project:
 - **EfficientNet**
 - **ResNet**
 - **VGGNet**
+
+## Inference with Hugging Face
+
+Once the model is trained, you can utilize the power of Hugging Face for inference on new images of Jordanian archaeological sites. Hugging Face provides a user-friendly interface for deploying and utilizing pre-trained models, making it easy to integrate state-of-the-art natural language processing and computer vision capabilities into your projects.
+
+### Using the Pre-trained Models
+
+1. **Choose a Model**: Select a pre-trained model suitable for your task. Hugging Face offers a wide range of models fine-tuned on various datasets, including computer vision models for image classification, object detection, and more.
+
+2. **Input Data**: Prepare your input data, in this case, images of Jordanian archaeological sites, ensuring they are in a compatible format and quality for the chosen model.
+
+3. **Model Inference**: Utilize Hugging Face's inference capabilities to process the input images through the selected pre-trained model. This step will generate predictions or insights based on the model's understanding of the input data.
+please follow this <a href="https://huggingface.co/spaces/trs/Image_Classification_with_pre-traind_Models">Image Classification for Archaeological Sites Interface</a>.
+ <img src="example/Image Classification for Archaeological Sites Interface.png" alt="Image Classification for Archaeological Sites Interface" width="300" />
+
+### Example Code Snippet
+
+Here's a simple example code snippet demonstrating how to use the Hugging Face API for inference on images of Jordanian archaeological sites:
+
+## Presentation
+For more details, please refer to our presentation <a href="https://prezi.com/p/edit/rob86aji2seu/">here</a>
+
