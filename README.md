@@ -36,39 +36,35 @@ The dataset consists of images with the following 9 classes:
 - Jeresh
 - Ajloun Castle
  <div style="display: flex; flex-direction: column; justify-content: space-between;">
-  <img src="example/10.png" alt="Example  Image 1" width="300" height="250"/>
-  <img src="example/1848e964b6aa16dbf91e5a011a32e847.png" alt="Example  Image 2" width="300" height="250"/>
-  <img src="example/Screenshot_4.png" alt="Example  Image 5" width="300" height="250"/>
+  <img src="example/sites.png" alt="Example  Image 1"/>
  </div>
-
-<div style="display: flex; flex-direction: column; justify-content: space-between;">
-  <img src="example/28.png" alt="Example  Image 3" width="300" height="250"/>
-  <img src="example/2024-01-19 024910.png" alt="Example  Image 4" width="300" height="250"/>
-  <img src="example/img38.png" alt="Example  Image 6" width="300" height="250"/>
-</div>
 
 ### Models Evaluated
 The following pre-trained models are evaluated in this project:
 - **InceptionV3**
   <div style="display: flex; flex-direction: column; justify-content: space-between;">
-  <img src="example/28.png" alt="Example  Image 3" width="300" height="250"/>
-  <img src="example/2024-01-19 024910.png" alt="Example  Image 4" width="300" height="250"/>
+  <img src="results/InceptionV3.png" alt="result  Image 1" width="500" height="250"/>
+  <img src="results/InceptionV3_Con.Matrix.png" alt="result Image 1" width="300" height="250"/>
+  <img src="results/InceptionV3_classification report.png" alt="result Image 1" width="300" height="250"/>
   </div>
 
 - **EfficientNet**
    <div style="display: flex; flex-direction: column; justify-content: space-between;">
-  <img src="example/28.png" alt="Example  Image 3" width="300" height="250"/>
-  <img src="example/2024-01-19 024910.png" alt="Example  Image 4" width="300" height="250"/>
+   <img src="results/efficientNet.png" alt="result Image 2" width="500" height="250"/>
+  <img src="results/efficient_Confusion Matrix.png" alt="result Image 2" width="300" height="250"/>
+  <img src="results/efficient_classification report.png" alt="result Image 2" width="300" height="250"/>
   </div>
 - **ResNet**
    <div style="display: flex; flex-direction: column; justify-content: space-between;">
-  <img src="example/28.png" alt="Example  Image 3" width="300" height="250"/>
-  <img src="example/2024-01-19 024910.png" alt="Example  Image 4" width="300" height="250"/>
+   <img src="results/ResNet50.png" alt="result  Image 1" width="500" height="250"/>
+  <img src="results/ResNet50_Confusion_Matrix.png" alt="result  Image 2" width="300" height="250"/>
+  <img src="results/ResNet50_classification_report.png" alt="result  Image 3" width="300" height="250"/>
   </div>
 - **VGGNet**
    <div style="display: flex; flex-direction: column; justify-content: space-between;">
-  <img src="example/28.png" alt="Example  Image 3" width="300" height="250"/>
-  <img src="example/2024-01-19 024910.png" alt="Example  Image 4" width="300" height="250"/>
+   <img src="results/VGG16.png" alt="result  Image 1" width="500" height="250"/>
+  <img src="results/VGG16_Con_Matrix.png" alt="result  Image 2" width="300" height="250"/>
+  <img src="results/VGG16_Classification_report.png" alt="result  Image 3" width="300" height="250"/>
   </div>
 
 ## Inference with Hugging Face
